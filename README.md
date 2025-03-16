@@ -51,8 +51,3 @@ This project is a simple research assistant powered by LangChain and multiple LL
 ├── .env           # API keys (ignored in git)
 └── research_output.txt # Saved research results
 ```
-
-## Future Improvements
-- Add support for more LLMs (e.g., Gemini, Mistral AI).
-- Improve response formatting for better readability.
-- Implement a front-end interface for user interaction.
