@@ -21,8 +21,8 @@ This project is a simple research assistant powered by LangChain and multiple LL
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/research-assistant.git
-   cd research-assistant
+   git clone https://github.com/james-moseti/simple_research_assistant.git
+   cd simple_research_assistant
    ```
 
 2. Install dependencies:
